@@ -1,4 +1,4 @@
-<h1 align="center">Analysis of Problems Caused by The terrorist.</h1>
+<h1 align="center">Analysis of Problems Caused by The Terrorist.</h1>
 
 <div align="Right">
     진행 기간: 2022.05.15. - 2022.05.20.
