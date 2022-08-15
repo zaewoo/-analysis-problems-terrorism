@@ -1,10 +1,12 @@
-
 <h1 align="center">Analysis of Problems Caused by The terrorist.</h1>
 
 <div align="Right">
-    작성일자: 2022.05.15
+    진행 기간: 2022.05.15. - 2022.05.20.
     </br>
-    수정일자: 2022.05.20
+    </br>
+    작성 일자: 2022.05.20.
+    </br>
+    수정 일자: 2022.08.15.
     </br>
     </br>
     박재우
